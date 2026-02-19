@@ -1,6 +1,9 @@
 # 自动关机助手 (Shutdown Timer)
 
 这是一个美观、现代化的Windows自动关机小工具，使用Python编写。
+<img width="700" height="838" alt="image" src="https://github.com/user-attachments/assets/f6b923b4-61ad-4f86-949f-51a275c7b063" />
+<img width="700" height="838" alt="image" src="https://github.com/user-attachments/assets/fbd2c9c8-d1d4-4087-949e-68d496e40a4b" />
+
 
 ## 功能介绍
 
